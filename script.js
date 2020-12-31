@@ -1,4 +1,4 @@
-// initilizing all DOM elements //
+// initilizing all DOM elements /
 
 const container = document.querySelector('.container');
 

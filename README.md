@@ -5,7 +5,7 @@ This repo is filled with 50 javaScript basic projects.
 ## project names
 
 1. Expanding cards
-2.
+2. Progress steps
 3.
 4.
 5.

@@ -18,4 +18,4 @@ container.addEventListener('click', (e) => {
     currentTarget.add('active');
   }
 });
-// completed //
+// complete //
